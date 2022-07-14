@@ -1,0 +1,31 @@
+_repo: Jack-the-runaway-or-On-the-road-with-a-circus_68413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+    wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
+description: ''
+gutenberg_issued: '2022-06-27'
+identifiers:
+  gutenberg: '68413'
+  lccn: 09024453
+language: en
+pgterms:marc905: 20220508134853webster
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Cupples & Leon Company,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Runaway teenagers -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- GITenberg
+title: Jack the runaway; or, On the road with a circus
+url: http://www.gutenberg.org/ebooks/68413
